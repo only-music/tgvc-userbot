@@ -1,3 +1,3 @@
-worker: python3 -m Hexzy
-web: python3 -m Hexzy
+worker: python3 -m userbot
+web: python3 -m userbot
 ps:scale worker=1

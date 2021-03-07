@@ -8,7 +8,7 @@
          "manager",
          "Hexzy"
       ],   
-   "repository": "https://github.com/Prabhasha-p/HexzyPro",
+   "repository": "https://github.com/only-music/tgvc-userbot",
    "addons": [
       {
          "options": {
@@ -180,5 +180,5 @@
       "Hexzy"
    ],
    "name": "Hexzy",
-   "repository": "https://github.com/Prabhasha-p/HexzyPro"
+   "repository": "https://github.com/only-music/tgvc-userbot"
 }
